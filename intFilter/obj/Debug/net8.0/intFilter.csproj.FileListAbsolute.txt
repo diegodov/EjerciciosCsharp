@@ -1,0 +1,14 @@
+C:\Users\diego\projects\asp.net\source\intFilter\bin\Debug\net8.0\intFilter.exe
+C:\Users\diego\projects\asp.net\source\intFilter\bin\Debug\net8.0\intFilter.deps.json
+C:\Users\diego\projects\asp.net\source\intFilter\bin\Debug\net8.0\intFilter.runtimeconfig.json
+C:\Users\diego\projects\asp.net\source\intFilter\bin\Debug\net8.0\intFilter.dll
+C:\Users\diego\projects\asp.net\source\intFilter\bin\Debug\net8.0\intFilter.pdb
+C:\Users\diego\projects\asp.net\source\intFilter\obj\Debug\net8.0\intFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\projects\asp.net\source\intFilter\obj\Debug\net8.0\intFilter.AssemblyInfoInputs.cache
+C:\Users\diego\projects\asp.net\source\intFilter\obj\Debug\net8.0\intFilter.AssemblyInfo.cs
+C:\Users\diego\projects\asp.net\source\intFilter\obj\Debug\net8.0\intFilter.csproj.CoreCompileInputs.cache
+C:\Users\diego\projects\asp.net\source\intFilter\obj\Debug\net8.0\intFilter.dll
+C:\Users\diego\projects\asp.net\source\intFilter\obj\Debug\net8.0\refint\intFilter.dll
+C:\Users\diego\projects\asp.net\source\intFilter\obj\Debug\net8.0\intFilter.pdb
+C:\Users\diego\projects\asp.net\source\intFilter\obj\Debug\net8.0\intFilter.genruntimeconfig.cache
+C:\Users\diego\projects\asp.net\source\intFilter\obj\Debug\net8.0\ref\intFilter.dll
