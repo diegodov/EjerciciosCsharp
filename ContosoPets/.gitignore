@@ -1,0 +1,4 @@
+# Ignorar directorios binarios y de objetos
+.vs/
+bin/
+obj/
